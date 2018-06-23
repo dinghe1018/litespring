@@ -9,4 +9,5 @@ import org.junit.runners.Suite.SuiteClasses;
 		CustomBooleanEditorTest.class, CustomNumberEditorTest.class, TypeConverterTest.class })
 public class V2AllTests {
 
+
 }
