@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bb9c28f-850c-4abe-8fff-32b1f5463559" name="Default" comment="" />
+    <list default="true" id="0bb9c28f-850c-4abe-8fff-32b1f5463559" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,9 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,125 +107,15 @@
             <path>
               <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
               <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="propertyeditors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="litespring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="litespring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,7 +126,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -448,6 +337,7 @@
       <updated>1529724395736</updated>
       <workItem from="1529724399494" duration="120000" />
       <workItem from="1529724545568" duration="791000" />
+      <workItem from="1529741144335" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="v002 commit">
       <created>1529739890252</created>
@@ -492,60 +382,39 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6307000" />
+    <option name="totallyTimeSpent" value="6428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.23252033" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info id="Image Layers" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.8081301" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.51544714" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" id="Palette" order="10" />
-      <window_info id="Designer" order="9" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="11" />
-      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24130106" />
-      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Palette&#9;" order="14" />
+      <window_info id="Image Layers" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="18" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="15" />
       <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="16" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.3284553" />
-      <window_info id="Image Layers" order="10" />
-      <window_info id="Capture Tool" order="11" />
-      <window_info id="UI Designer" order="12" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="12" />
-      <window_info anchor="right" id="Database" order="13" />
-      <window_info anchor="right" id="Palette&#9;" order="14" />
       <window_info anchor="bottom" id="Terminal" order="17" />
-      <window_info anchor="bottom" id="Event Log" order="18" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Maven Projects" order="15" />
+      <window_info id="Capture Tool" order="11" />
+      <window_info id="Designer" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24508321" />
+      <window_info anchor="right" id="Database" order="13" />
+      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
       <window_info id="Favorites" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.23252033" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,10 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -589,9 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,10 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -617,13 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,9 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="21" column="153" lean-forward="true" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="153" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,11 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,13 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -688,10 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#375#391#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,9 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -745,9 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="90" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,10 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -772,10 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,13 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,9 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -842,24 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#867#868#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -867,11 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-272">
           <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1406#1407#0" expanded="true" />
-            <element signature="e#1446#1447#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,9 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
